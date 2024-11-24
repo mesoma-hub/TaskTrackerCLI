@@ -143,6 +143,11 @@ Contributions are welcome! To contribute:
 3. Submit a pull request with a detailed explanation of your changes.
 
 ---
+## Project URL
+
+You can find the project repository at:
+[GitHub - TaskTrackerCLI](https://github.com/mesoma-hub/tasktrackercli)
+---
 
 
 ## **Contact**
