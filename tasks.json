@@ -1,0 +1,25 @@
+[ {
+  "id" : 1,
+  "description" : "Write documentation",
+  "status" : "TODO",
+  "createdAt" : "2024-11-24",
+  "updatedAt" : "2024-11-24"
+}, {
+  "id" : 2,
+  "description" : "Fix bugs",
+  "status" : "TODO",
+  "createdAt" : "2024-11-24",
+  "updatedAt" : "2024-11-24"
+}, {
+  "id" : 7,
+  "description" : "Work on a TaskTracker Project",
+  "status" : "DONE",
+  "createdAt" : "2024-11-24",
+  "updatedAt" : "2024-11-24"
+}, {
+  "id" : 12,
+  "description" : "Learn The Spring Framework",
+  "status" : "IN_PROGRESS",
+  "createdAt" : "2024-11-24",
+  "updatedAt" : "2024-11-24"
+} ]
